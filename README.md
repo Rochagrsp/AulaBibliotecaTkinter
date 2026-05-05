@@ -25,8 +25,3 @@ A aplicação é dividida em:
 1. **Aba Cadastro**: Onde o usuário insere os dados.
 2. **Aba Clientes Cadastrados**: Onde os dados são exibidos após clicar no botão "Cadastrar".
 
-## 📦 Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
